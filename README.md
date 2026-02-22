@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-22 19:28:44 +0800`
+`更新时间：2026-02-22 21:05:23 +0800`
 
 ## 热门搜索
 
-1. [强冷空气已准备就绪](https://www.zhihu.com/search?q=%E5%BC%BA%E5%86%B7%E7%A9%BA%E6%B0%94%E5%B7%B2%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA)
+1. [沙尘暴](https://www.zhihu.com/search?q=%E6%B2%99%E5%B0%98%E6%9A%B4)
+1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C)
 1. [初五迎财神](https://www.zhihu.com/search?q=%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E)
 1. [快船战胜掘金](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E6%88%98%E8%83%9C%E6%8E%98%E9%87%91)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
