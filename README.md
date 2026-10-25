@@ -11,22 +11,21 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-25 08:58:26 +0800`
+`更新时间：2026-10-25 13:56:27 +0800`
 
 ## 热门搜索
 
-1. [iPhoneDuo拆机纳米纹理非玻璃](https://www.zhihu.com/search?q=iPhoneDuo%E6%8B%86%E6%9C%BA%E7%BA%B3%E7%B1%B3%E7%BA%B9%E7%90%86%E9%9D%9E%E7%8E%BB%E7%92%83)
+1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
+1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
 1. [明代运粮为何不走海运](https://www.zhihu.com/search?q=%E6%98%8E%E4%BB%A3%E8%BF%90%E7%B2%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%B5%B0%E6%B5%B7%E8%BF%90)
 1. [NBA](https://www.zhihu.com/search?q=NBA)
 1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB%E5%81%9C%E8%BF%90)
 1. [玉簟秋](https://www.zhihu.com/search?q=%E7%8E%89%E7%B0%9F%E7%A7%8B)
 1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=%E4%B8%89%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82%E9%97%AE%E9%A2%98)
 1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8F%AF%E8%B4%B7%E6%AC%BE%E7%BC%B4%E7%A4%BE%E4%BF%9D)
-1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
 1. [《沙丘3》中国内地定档](https://www.zhihu.com/search?q=%E3%80%8A%E6%B2%99%E4%B8%983%E3%80%8B%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3)
 1. [96岁老人独自乘火车进藏](https://www.zhihu.com/search?q=96%E5%B2%81%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E4%B9%98%E7%81%AB%E8%BD%A6%E8%BF%9B%E8%97%8F)
 1. [星巴克将施行消费入座](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%B0%86%E6%96%BD%E8%A1%8C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7)
-1. [武志红李雪互相指控对方是NPD](https://www.zhihu.com/search?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E4%BA%92%E7%9B%B8%E6%8C%87%E6%8E%A7%E5%AF%B9%E6%96%B9%E6%98%AFNPD)
 1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer8%E9%81%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD)
 1. [子祺事变](https://www.zhihu.com/search?q=%E5%AD%90%E7%A5%BA%E4%BA%8B%E5%8F%98)
 1. [宝马员工争着离职](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC%E5%91%98%E5%B7%A5%E4%BA%89%E7%9D%80%E7%A6%BB%E8%81%8C)
