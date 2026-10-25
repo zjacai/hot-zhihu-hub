@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-25 23:56:10 +0800`
+`更新时间：2026-10-26 02:52:28 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [汽车之家回应韩路](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E5%9B%9E%E5%BA%94%E9%9F%A9%E8%B7%AF)
 1. [人民日报评老师被家长无理举报](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%80%81%E5%B8%88%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%97%A0%E7%90%86%E4%B8%BE%E6%8A%A5)
 1. [英国拟征收看剧税](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E6%8B%9F%E5%BE%81%E6%94%B6%E7%9C%8B%E5%89%A7%E7%A8%8E)
-1. [PHP严重漏洞被AI模型发现](https://www.zhihu.com/search?q=PHP%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E%E8%A2%ABAI%E6%A8%A1%E5%9E%8B%E5%8F%91%E7%8E%B0)
 1. [芯片人才百万年薪一将难求](https://www.zhihu.com/search?q=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82)
 1. [懂车帝曾指出问界油路靠前](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E6%9B%BE%E6%8C%87%E5%87%BA%E9%97%AE%E7%95%8C%E6%B2%B9%E8%B7%AF%E9%9D%A0%E5%89%8D)
 
