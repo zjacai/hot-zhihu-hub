@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-28 00:21:06 +0800`
+`更新时间：2026-10-28 05:10:49 +0800`
 
 ## 热门搜索
 
@@ -37,6 +37,7 @@
 1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
 1. [日剧Vivant抹黑中国](https://www.zhihu.com/search?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD)
 1. [斯里兰卡遭遇全国性断电](https://www.zhihu.com/search?q=%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E9%81%AD%E9%81%87%E5%85%A8%E5%9B%BD%E6%80%A7%E6%96%AD%E7%94%B5)
+1. [张雪刷新吉尼斯世界纪录](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95)
 
 ## 热门话题
 
