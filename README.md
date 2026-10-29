@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-29 22:03:26 +0800`
+`更新时间：2026-10-30 04:08:47 +0800`
 
 ## 热门搜索
 
@@ -37,9 +37,9 @@
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
 1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
 1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E8%8E%B7%E6%B5%B7%E5%A4%96%E5%AA%92%E4%BD%93%E9%AB%98%E5%88%86%E5%A5%BD%E8%AF%84)
-1. [比尔盖茨称AI将带来20年动荡](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E7%A7%B0AI%E5%B0%86%E5%B8%A6%E6%9D%A520%E5%B9%B4%E5%8A%A8%E8%8D%A1)
 1. [首部AI院线电影票房遇冷](https://www.zhihu.com/search?q=%E9%A6%96%E9%83%A8AI%E9%99%A2%E7%BA%BF%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E9%81%87%E5%86%B7)
 1. [东莞一公司亏损扣员工工资分担](https://www.zhihu.com/search?q=%E4%B8%9C%E8%8E%9E%E4%B8%80%E5%85%AC%E5%8F%B8%E4%BA%8F%E6%8D%9F%E6%89%A3%E5%91%98%E5%B7%A5%E5%B7%A5%E8%B5%84%E5%88%86%E6%8B%85)
+1. [2026年第70届金球奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E7%AC%AC70%E5%B1%8A%E9%87%91%E7%90%83%E5%A5%96)
 
 ## 热门话题
 
